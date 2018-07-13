@@ -3,7 +3,7 @@
 <html lang="fa-ir">
 <head>
 <meta charset='utf-8'>
-<title>Sepid Shop</title>
+<title>فروشگاه مجازی خرید کالا سپید</title>
 <!--<link rel='icon' type='image/x-icon' href='https://www.sepidshop.com/favicon.ico'>-->
 <link rel="alternate" href="https://www.sepidshop.com/index.php" hreflang="fa-ir" />
 <link rel="alternate" href="https://www.sepidshop.com/en/index.php" hreflang="en-us" />
